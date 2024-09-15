@@ -16,9 +16,3 @@ This Python-based arbitrage bot identifies potential arbitrage opportunities bet
   - `requests`
   - `pandas`
   - `numpy`
-
-## Installation
-
-1. Clone the repository:
-   git clone https://github.com/yourusername/arbitrage-bot.git
-   cd arbitrage-bot
