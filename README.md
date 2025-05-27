@@ -16,3 +16,5 @@ This Python-based arbitrage bot identifies potential arbitrage opportunities bet
   - `requests`
   - `pandas`
   - `numpy`
+
+abhinav00345@gmail.com
